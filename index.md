@@ -1,6 +1,6 @@
 # Welcome to Ray's website!!!
 
-![Ray](https://i.imgur.com/jLTjC4c.jpg)
+![Ray](/assets/HandsomeRay.jpg)
 
 ---
 
