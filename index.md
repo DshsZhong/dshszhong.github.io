@@ -1,6 +1,8 @@
-## Welcome to Ray's website!!!
+# Welcome to Ray's website!!!
 
 ![Ray](https://i.imgur.com/jLTjC4c.jpg)
+
+---
 
 ## 尤拉線證明
 
