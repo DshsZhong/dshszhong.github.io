@@ -11,3 +11,5 @@
 ## 吉祥物
 
 ![Jimmy](/assets/JerkJimmy.png)
+
+## \~Veritas\~
