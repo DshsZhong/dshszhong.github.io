@@ -1,5 +1,5 @@
 # Welcome to Ray's website!!!
-## <center>\~Veritas\~<\center>
+## <div align="center"> ~Veritas~ </div>
 
 ![Ray](/assets/HandsomeRay.jpg)
 
