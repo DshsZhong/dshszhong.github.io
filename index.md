@@ -1,4 +1,5 @@
 # Welcome to Ray's website!!!
+## <center>\~Veritas\~<\center>
 
 ![Ray](/assets/HandsomeRay.jpg)
 
@@ -12,4 +13,3 @@
 
 ![Jimmy](/assets/JerkJimmy.png)
 
-## \~Veritas\~
