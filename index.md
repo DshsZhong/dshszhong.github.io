@@ -39,6 +39,18 @@
 |-|-|
 |![4-1](/assets/mathB6/4/1.jpg)|![4-2](/assets/mathB6/4/2.jpg)|
 
+### 測驗5
+
+|1|2|
+|-|-|
+|![5-1](/assets/mathB6/5/1.jpg)|![5-2](/assets/mathB6/5/2.jpg)|
+
+### 測驗6
+
+|1|2|
+|-|-|
+|![6-1](/assets/mathB6/6/1.jpg)|![6-2](/assets/mathB6/6/2.jpg)|
+
 ### 測驗7
 
 |1|2|3|
